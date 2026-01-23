@@ -1,0 +1,45 @@
+2025-08-05 19:39:40,552 - INFO - === Instagram Content Analytics Started ===
+2025-08-05 19:39:40,553 - ERROR - Error loading data: File tidak ditemukan: hasil_scrape_lengkap_batikmahkotacom.xlsx
+2025-08-05 19:39:40,554 - ERROR - Analysis failed: File tidak ditemukan: hasil_scrape_lengkap_batikmahkotacom.xlsx
+2025-08-05 19:39:56,473 - INFO - === Instagram Content Analytics Started ===
+2025-08-05 19:39:56,474 - ERROR - Error loading data: File tidak ditemukan: hasil_scrape_lengkap_batikmahkotacom.xlsx
+2025-08-05 19:39:56,476 - ERROR - Analysis failed: File tidak ditemukan: hasil_scrape_lengkap_batikmahkotacom.xlsx
+2025-08-05 19:43:02,009 - INFO - === Instagram Content Analytics Started ===
+2025-08-05 19:43:02,011 - INFO - Loading data from hasil_scrape_reels_lengkap_batikmahkotacom.xlsx
+2025-08-05 19:43:02,580 - INFO - Data loaded successfully. Shape: (83, 17)
+2025-08-05 19:43:02,586 - ERROR - Error loading data: Kolom yang diperlukan tidak ditemukan: ['color_name']
+2025-08-05 19:43:02,587 - ERROR - Analysis failed: Kolom yang diperlukan tidak ditemukan: ['color_name']
+2025-08-05 20:19:59,723 - INFO - === Instagram Content Analytics Started ===
+2025-08-05 20:19:59,724 - INFO - Loading data from data_cleaned_batik_tekstil.xlsx
+2025-08-05 20:20:00,736 - INFO - Data loaded successfully. Shape: (364, 23)
+2025-08-05 20:20:00,745 - WARNING - Removing 9 rows with invalid likes
+2025-08-05 20:20:00,752 - INFO - Data validation completed successfully
+2025-08-05 20:20:00,754 - INFO - Starting data preprocessing
+2025-08-05 20:20:00,809 - INFO - Data preprocessing completed
+2025-08-05 20:20:00,813 - INFO - Performing statistical analysis
+2025-08-05 20:20:00,924 - INFO - Statistical analysis completed
+2025-08-05 20:20:00,927 - INFO - Creating visualizations
+2025-08-05 20:20:05,025 - INFO - Visualization saved to analytics_output\instagram_analytics_20250805_202002.png
+2025-08-05 20:20:06,662 - INFO - Results exported to analytics_output\instagram_analytics_results_20250805_202005.xlsx
+2025-08-05 20:20:06,662 - INFO - === ANALYSIS SUMMARY ===
+2025-08-05 20:20:06,663 - INFO - Total posts analyzed: 355
+2025-08-05 20:20:06,663 - INFO - Content types found: ['Post Biasa', 'Story']
+2025-08-05 20:20:06,665 - INFO - Best performing content type: Post Biasa
+2025-08-05 20:20:06,666 - INFO - === Instagram Content Analytics Completed Successfully ===
+2025-08-06 06:04:07,060 - INFO - === Instagram Content Analytics Started ===
+2025-08-06 06:04:07,065 - INFO - Loading data from data_cleaned_batik_tekstil.xlsx
+2025-08-06 06:04:07,866 - INFO - Data loaded successfully. Shape: (364, 23)
+2025-08-06 06:04:07,873 - WARNING - Removing 9 rows with invalid likes
+2025-08-06 06:04:07,873 - INFO - Data validation completed successfully
+2025-08-06 06:04:07,883 - INFO - Starting data preprocessing
+2025-08-06 06:04:07,922 - INFO - Data preprocessing completed
+2025-08-06 06:04:07,922 - INFO - Performing statistical analysis
+2025-08-06 06:04:07,971 - INFO - Statistical analysis completed
+2025-08-06 06:04:07,971 - INFO - Creating visualizations
+2025-08-06 06:04:11,380 - INFO - Visualization saved to analytics_output\instagram_analytics_20250806_060408.png
+2025-08-06 06:04:12,669 - INFO - Results exported to analytics_output\instagram_analytics_results_20250806_060412.xlsx
+2025-08-06 06:04:12,669 - INFO - === ANALYSIS SUMMARY ===
+2025-08-06 06:04:12,672 - INFO - Total posts analyzed: 355
+2025-08-06 06:04:12,672 - INFO - Content types found: ['Post Biasa', 'Story']
+2025-08-06 06:04:12,672 - INFO - Best performing content type: Post Biasa
+2025-08-06 06:04:12,672 - INFO - === Instagram Content Analytics Completed Successfully ===
