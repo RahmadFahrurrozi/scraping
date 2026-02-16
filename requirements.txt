@@ -1,7 +1,10 @@
-selenium==4.12.0
-webdriver-manager==4.0.0
-beautifulsoup4==4.12.2
-requests==2.31.0
-colorthief==0.2.1
-webcolors==1.13
-notebook==7.0.0
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+colorthief
+webcolors
+notebook
+pandas
+openpyxl
+ipykernel
